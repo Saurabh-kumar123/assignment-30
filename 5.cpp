@@ -3,7 +3,8 @@
 using namespace std;
 int main()
 {
-     int countt=0,n;
+     int countt=0;
+     long long n;
      cout<<"Enter a phone Number : ";
      cin>>n;
      try
